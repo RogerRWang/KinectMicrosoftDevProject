@@ -1,0 +1,1 @@
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\CommandMessengerTests\obj\x86\Debug\CommandMessengerTests.csprojResolveAssemblyReference.cache

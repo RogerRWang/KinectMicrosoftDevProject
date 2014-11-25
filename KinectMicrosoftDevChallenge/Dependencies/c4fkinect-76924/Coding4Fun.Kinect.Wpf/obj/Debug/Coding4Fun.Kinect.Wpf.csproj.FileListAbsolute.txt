@@ -1,0 +1,9 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.Wpf\obj\Debug\Controls\HoverButton.baml
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.Wpf\obj\Debug\Controls\HoverButton.g.cs
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf_MarkupCompile.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.g.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\Receive\bin\Debug\Receive.exe
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\Receive\bin\Debug\Receive.pdb
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\Receive\bin\Debug\CommandMessenger.dll
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\Receive\bin\Debug\CommandMessenger.pdb
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\Receive\obj\x86\Debug\1-Receive.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\Receive\obj\x86\Debug\Receive.exe
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\Receive\obj\x86\Debug\Receive.pdb

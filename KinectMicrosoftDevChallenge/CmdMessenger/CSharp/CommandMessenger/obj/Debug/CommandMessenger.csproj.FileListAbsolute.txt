@@ -1,0 +1,4 @@
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\CommandMessenger\bin\Debug\CommandMessenger.dll
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\CommandMessenger\bin\Debug\CommandMessenger.pdb
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\CommandMessenger\obj\Debug\CommandMessenger.dll
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\CommandMessenger\obj\Debug\CommandMessenger.pdb

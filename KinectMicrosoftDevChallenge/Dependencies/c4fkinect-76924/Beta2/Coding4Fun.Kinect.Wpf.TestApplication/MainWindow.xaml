@@ -1,0 +1,60 @@
+﻿<!--
+// (c) Copyright Microsoft Corporation.
+// This source is subject to the Microsoft Public License (Ms-PL).
+// Please see http://go.microsoft.com/fwlink/?LinkID=131993 for details.
+// All other rights reserved.
+-->
+
+<Window x:Class="Coding4Fun.Kinect.Wpf.TestApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="402" Width="573" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Image 
+			Name="ColorImage"
+			Grid.Row="1"
+			Grid.Column="0"/>
+        <Image 
+			Name="DepthImage"
+			Grid.Row="0"
+			Grid.Column="0"/>
+        <Image 
+			Name="DepthImageWithMinDistance"
+			Grid.Row="0"
+			Grid.Column="1"/>
+
+        <StackPanel
+			Grid.Row="1"
+			Grid.Column="1">
+            <CheckBox Name="TrackSkeleton" Content="Track Skeleton" Height="16" Click="ReinitRuntime_Click" IsChecked="True" />
+			<CheckBox Name="TrackDepth" Content="Track Depth" Height="16" Click="ReinitRuntime_Click" />
+			<CheckBox Name="TrackDepthAndPlayerIndex" Content="Track Depth and Player Index" Height="16" IsChecked="True" Click="ReinitRuntime_Click" />
+            <CheckBox Name="TrackColor" Content="Track Color" Height="16" Click="ReinitRuntime_Click" IsChecked="True" />
+
+			<StackPanel Orientation="Horizontal">
+				<TextBlock>Minimum Distance:</TextBlock>
+				<TextBlock Name="DistanceText" />
+			</StackPanel>
+			<Slider Value="1000" Interval="250" Maximum="3975" Minimum="800" ValueChanged="DistanceSlider_ValueChanged" />
+			<TextBlock>Middle Point Distance:</TextBlock>
+			<StackPanel Orientation="Horizontal">
+				<TextBlock>Via [][]:</TextBlock>
+				<TextBlock Name="MidPointDistanceText" />
+			</StackPanel>
+			<StackPanel Orientation="Horizontal">
+				<TextBlock>Via GetDistance:</TextBlock>
+				<TextBlock Name="MidPointDistanceViaGetDistanceText" />
+			</StackPanel>
+            <Button Content="Save Images" Height="23" Name="button1" Width="75" Click="button1_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

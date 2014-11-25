@@ -1,0 +1,11 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\obj\x86\Debug\Coding4Fun.Kinect.WinForm.TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\obj\x86\Debug\Coding4Fun.Kinect.WinForm.TestApplication.Form1.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\obj\x86\Debug\Coding4Fun.Kinect.WinForm.TestApplication.Properties.Resources.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\obj\x86\Debug\Coding4Fun.Kinect.WinForm.TestApplication.csproj.GenerateResource.Cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\bin\Debug\Coding4Fun.Kinect.WinForm.TestApplication.exe.config
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\bin\Debug\Coding4Fun.Kinect.WinForm.TestApplication.exe
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\bin\Debug\Coding4Fun.Kinect.WinForm.TestApplication.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\obj\x86\Debug\Coding4Fun.Kinect.WinForm.TestApplication.exe
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm.TestApplication\obj\x86\Debug\Coding4Fun.Kinect.WinForm.TestApplication.pdb

@@ -1,0 +1,4 @@
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\TemperatureControl\obj\x86\Debug\7-TemperatureControl.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\TemperatureControl\obj\x86\Debug\DataLogging.ChartForm.resources
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\TemperatureControl\obj\x86\Debug\DataLogging.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\TemperatureControl\obj\x86\Debug\7-TemperatureControl.csproj.GenerateResource.Cache

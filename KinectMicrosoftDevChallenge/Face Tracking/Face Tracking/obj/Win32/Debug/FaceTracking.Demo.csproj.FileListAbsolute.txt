@@ -1,0 +1,61 @@
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackData.dll
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\CommandMessenger.dll
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\bin\x86\Debug\CommandMessenger.pdb
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTracking.Demo.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\ThoughtBubble.baml
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\NoddingWindow.g.cs
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\Reposition Window.g.cs
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\ThoughtBubble.g.cs
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\App.g.cs
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\MainWindow.baml
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\NoddingWindow.baml
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\Reposition Window.baml
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTracking.Demo.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\asus\Documents\Visual Studio 2013\_Final\5. FaceTracking\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTracking.Demo.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\ThoughtBubble.baml
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\NoddingWindow.g.cs
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\Reposition Window.g.cs
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\ThoughtBubble.g.cs
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\App.g.cs
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackData.dll
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\CommandMessenger.pdb
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\MainWindow.baml
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\NoddingWindow.baml
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\Reposition Window.baml
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\FaceTracking.Demo.csproj.GenerateResource.Cache

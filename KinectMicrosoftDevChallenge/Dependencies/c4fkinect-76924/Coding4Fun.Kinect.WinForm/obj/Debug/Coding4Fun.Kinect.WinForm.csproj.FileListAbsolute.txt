@@ -1,0 +1,5 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm\obj\Debug\Coding4Fun.Kinect.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm\obj\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\c4fkinect-76924\Coding4Fun.Kinect.WinForm\obj\Debug\Coding4Fun.Kinect.WinForm.pdb

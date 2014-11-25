@@ -1,0 +1,24 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ControlsBasics-WPF\.Debug\KinectInteraction170_32.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ControlsBasics-WPF\.Debug\KinectInteraction170_64.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\.Debug\KinectInteraction170_32.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\.Debug\KinectInteraction170_64.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\Dependencies\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

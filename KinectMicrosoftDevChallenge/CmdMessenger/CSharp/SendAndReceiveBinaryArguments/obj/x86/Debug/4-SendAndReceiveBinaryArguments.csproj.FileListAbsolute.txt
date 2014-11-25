@@ -1,0 +1,1 @@
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\SendAndReceiveBinaryArguments\obj\x86\Debug\4-SendAndReceiveBinaryArguments.csprojResolveAssemblyReference.cache

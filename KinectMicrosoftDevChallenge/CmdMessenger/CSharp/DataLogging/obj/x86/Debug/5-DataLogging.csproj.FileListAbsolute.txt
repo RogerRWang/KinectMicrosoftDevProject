@@ -1,0 +1,4 @@
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\DataLogging\obj\x86\Debug\5-DataLogging.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\DataLogging\obj\x86\Debug\DataLogging.ChartForm.resources
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\DataLogging\obj\x86\Debug\DataLogging.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\DataLogging\obj\x86\Debug\5-DataLogging.csproj.GenerateResource.Cache
