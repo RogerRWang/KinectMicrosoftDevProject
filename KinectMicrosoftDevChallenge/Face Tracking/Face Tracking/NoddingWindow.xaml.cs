@@ -25,6 +25,7 @@ namespace FaceTrackingBasics
     {
         SetLed,
         Status,
+        SetServo,
     };
 
     public class SendAndReceive
@@ -34,12 +35,12 @@ namespace FaceTrackingBasics
         private CmdMessenger _cmdMessenger;
         private bool _ledState;
         private int _count;
-
+        private int _servoState;
         // Setup function
         public void Setup()
         {
             _ledState = false;
-
+            _servoState = 90;
             // Create Serial Port object
             // Note that for some boards (e.g. Sparkfun Pro Micro) DtrEnable may need to be true.
             _serialTransport = new SerialTransport
@@ -74,31 +75,65 @@ namespace FaceTrackingBasics
             _cmdMessenger.SendCommand(command);
 
             // Wait for 1 second and repeat
-            Thread.Sleep(1000);
-            _ledState = !_ledState;                                        // Toggle led state  
+            //Thread.Sleep(1000);
+            //_ledState = !_ledState;                                        // Toggle led state  
+            _ledState = true;
+            /*Console.WriteLine("LED state: ");
+            Console.WriteLine(_ledState);*/
 
-            if (_count > 2) RunLoop = false;                             // Stop loop after 2 rounds (On -> Off -> stop)
+            if (_count > 0) RunLoop = false;                             // Stop loop after 2 rounds (On -> Off -> stop)
+        }
+
+        public void Loop2()
+        {
+            _count++;
+
+            // Create command
+            var command = new SendCommand((int)Command.SetLed, _ledState);
+
+            // Send command
+            _cmdMessenger.SendCommand(command);
+
+            // Wait for 1 second and repeat
+            //Thread.Sleep(1000);
+            //_ledState = !_ledState;                                        // Toggle led state  
+            _ledState = false;
+            /*Console.WriteLine("LED state: ");
+            Console.WriteLine(_ledState);*/
+
+            if (_count > 0) RunLoop = false;     
+
+        }
+
+        public void Loop3()
+        {
+            _count++;
+
+            var command = new SendCommand((int)Command.SetServo, _servoState);
+            _cmdMessenger.SendCommand(command);
+            _servoState = 170;
+            if (_count > 0) RunLoop = false;
+        }
+
+        public void Loop4()
+        {
+            _count++;
+
+            var command = new SendCommand((int)Command.SetServo, _servoState);
+            _cmdMessenger.SendCommand(command);
+            _servoState = 10;
+            if (_count > 0) RunLoop = false;
         }
 
         public void reset()
         {
             _count = 0;
             RunLoop = true;
-            Setup();
         }
 
         // Exit function
         public void Exit()
         {
-            // Stop listening
-            _cmdMessenger.StopListening();
-
-            // Dispose Command Messenger
-            _cmdMessenger.Dispose();
-
-            // Dispose Serial Port object
-            _serialTransport.Dispose();
-
             // Pause before stop
             Console.WriteLine("Press any key to stop...");
             Console.ReadKey();
@@ -108,6 +143,7 @@ namespace FaceTrackingBasics
         private void AttachCommandCallBacks()
         {
             _cmdMessenger.Attach(OnUnknownCommand);
+            _cmdMessenger.Attach((int)Command.Status, OnStatus);
             _cmdMessenger.Attach((int)Command.Status, OnStatus);
         }
 
@@ -124,7 +160,7 @@ namespace FaceTrackingBasics
             Console.WriteLine(arguments.ReadStringArg());
         }
     }
-
+    
     
 
 	/// <summary>
@@ -331,12 +367,13 @@ namespace FaceTrackingBasics
             if (animationUnits[AnimationUnit.JawLower] > .3)
             {
                 _thoughtBubble.SetThoughtBubble("openmouth.png");
-                while (receiver.RunLoop) receiver.Loop();
-                receiver.Exit();
+                while (receiver.RunLoop) receiver.Loop3();
+                receiver.reset();
             }
-            if (animationUnits[AnimationUnit.BrowRaiser] > .5)
+            if (animationUnits[AnimationUnit.BrowRaiser] > .4)
             {
                 _thoughtBubble.SetThoughtBubble("eyebrow.png");
+                while (receiver.RunLoop) receiver.Loop4();
                 receiver.reset();
             }
 

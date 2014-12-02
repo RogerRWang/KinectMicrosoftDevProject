@@ -73,6 +73,13 @@ namespace SendAndReceive
             if (_count > 5) RunLoop = false;                             // Stop loop after 100 rounds
         }
 
+        public void reset()
+        {
+            _count = 0;
+            RunLoop = true;
+            Setup();
+        }
+
         // Exit function
         public void Exit()
         {

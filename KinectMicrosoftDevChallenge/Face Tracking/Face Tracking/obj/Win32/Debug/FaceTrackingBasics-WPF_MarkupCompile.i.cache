@@ -4,17 +4,17 @@
 exe
 C#
 .cs
-C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\obj\Win32\Debug\
 FaceTrackingBasics
 none
 false
 DEBUG;TRACE
-C:\Users\asus\Desktop\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\App.xaml
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\Face Tracking\Face Tracking\App.xaml
 5-1705112284
 
 12140038794
-17-1508764932
+171935573573
 FaceTrackingViewer.xaml;MainWindow.xaml;NoddingWindow.xaml;Reposition Window.xaml;ThoughtBubble.xaml;
 
-True
+False
 

@@ -5,3 +5,10 @@ C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\SendAndReceive\bi
 C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\SendAndReceive\bin\Debug\CommandMessenger.pdb
 C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\SendAndReceive\obj\x86\Debug\SendAndReceive.exe
 C:\Users\asus\Documents\Visual Studio 2013\CmdMessenger\CSharp\SendAndReceive\obj\x86\Debug\SendAndReceive.pdb
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\CmdMessenger\CSharp\SendAndReceive\bin\Debug\SendAndReceive.exe
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\CmdMessenger\CSharp\SendAndReceive\bin\Debug\SendAndReceive.pdb
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\CmdMessenger\CSharp\SendAndReceive\bin\Debug\CommandMessenger.dll
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\CmdMessenger\CSharp\SendAndReceive\bin\Debug\CommandMessenger.pdb
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\CmdMessenger\CSharp\SendAndReceive\obj\x86\Debug\2-SendAndReceive.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\CmdMessenger\CSharp\SendAndReceive\obj\x86\Debug\SendAndReceive.exe
+C:\Users\asus\Documents\GitHub\KinectMicrosoftDevProject\KinectMicrosoftDevChallenge\CmdMessenger\CSharp\SendAndReceive\obj\x86\Debug\SendAndReceive.pdb

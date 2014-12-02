@@ -6,11 +6,15 @@
 // - Send a command with a parameter to the PC
 
 #include <CmdMessenger.h>  // CmdMessenger
+#include <Servo.h>
 
+//Servo variables
+Servo myservo;
 // Blinking led variables 
 bool ledState                   = 0;   // Current state of Led
+int servoState  =  90;
 const int kBlinkLed             = 13;  // Pin of internal Led
-
+const int kServo = 12;
 // Attach a new CmdMessenger object to the default Serial port
 CmdMessenger cmdMessenger = CmdMessenger(Serial);
 
@@ -20,6 +24,7 @@ enum
 {
   kSetLed              , // Command to request led to be set in specific state
   kStatus              , // Command to report status
+  kSetServo            ,
 };
 
 // Callbacks define on which received commands we take action
@@ -28,6 +33,7 @@ void attachCommandCallbacks()
   // Attach callback methods
   cmdMessenger.attach(OnUnknownCommand);
   cmdMessenger.attach(kSetLed, OnSetLed);
+  cmdMessenger.attach(kSetServo,OnSetServo);
 }
 
 // Called when a received command has no attached function
@@ -47,12 +53,20 @@ void OnSetLed()
   cmdMessenger.sendCmd(kStatus,(int)ledState);
 }
 
+void OnSetServo()
+{
+    servoState = cmdMessenger.readInt32Arg();
+    myservo.write(servoState);
+    cmdMessenger.sendCmd(kStatus,servoState);
+}
+
 // Setup function
 void setup() 
 {
   // Listen on serial connection for messages from the PC
   Serial.begin(115200); 
-
+  myservo.attach(12);
+  myservo.write(90);
   // Adds newline to every command
   cmdMessenger.printLfCr();   
 
