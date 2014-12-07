@@ -367,14 +367,12 @@ namespace FaceTrackingBasics
             if (animationUnits[AnimationUnit.JawLower] > .3)
             {
                 _thoughtBubble.SetThoughtBubble("openmouth.png");
-                while (receiver.RunLoop) receiver.Loop3();
-                receiver.reset();
+                
             }
             if (animationUnits[AnimationUnit.BrowRaiser] > .4)
             {
                 _thoughtBubble.SetThoughtBubble("eyebrow.png");
-                while (receiver.RunLoop) receiver.Loop4();
-                receiver.reset();
+                
             }
 
 
@@ -410,11 +408,15 @@ namespace FaceTrackingBasics
                 {
                     //YES!!
                     _thoughtBubble.SetThoughtBubble("yes.png");
+                    while (receiver.RunLoop) receiver.Loop3();
+                    receiver.reset();
                 }
                 if (frame.Rotation.Y > 10 && noStarted)
                 {
                     //NO!!!
                     _thoughtBubble.SetThoughtBubble("no.png");
+                    while (receiver.RunLoop) receiver.Loop4();
+                    receiver.reset();
                 }
             }
 
