@@ -171,6 +171,18 @@
       <Name>Microsoft.Kinect.Toolkit.FaceTracking</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\firin_mah_laser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\wide_eyed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\trigger_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\trigger_on.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

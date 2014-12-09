@@ -366,12 +366,18 @@ namespace FaceTrackingBasics
 
             if (animationUnits[AnimationUnit.JawLower] > .3)
             {
-                _thoughtBubble.SetThoughtBubble("openmouth.png");
+                //_thoughtBubble.SetThoughtBubble("openmouth.png");
+                _thoughtBubble.SetThoughtBubble("firin_mah_laser.png");
+                while (receiver.RunLoop) receiver.Loop();
+                receiver.reset();
                 
             }
             if (animationUnits[AnimationUnit.BrowRaiser] > .4)
             {
-                _thoughtBubble.SetThoughtBubble("eyebrow.png");
+                //_thoughtBubble.SetThoughtBubble("eyebrow.png");
+                _thoughtBubble.SetThoughtBubble("wide_eyed.png");
+                while (receiver.RunLoop) receiver.Loop2();
+                receiver.reset();
                 
             }
 
@@ -407,7 +413,8 @@ namespace FaceTrackingBasics
                 if (frame.Rotation.X < -5 && yesStarted)
                 {
                     //YES!!
-                    _thoughtBubble.SetThoughtBubble("yes.png");
+                    //_thoughtBubble.SetThoughtBubble("yes.png");
+                    _thoughtBubble.SetThoughtBubble("trigger_on.png");
                     while (receiver.RunLoop) receiver.Loop3();
                     receiver.reset();
                 }
@@ -415,6 +422,7 @@ namespace FaceTrackingBasics
                 {
                     //NO!!!
                     _thoughtBubble.SetThoughtBubble("no.png");
+                    //_thoughtBubble.SetThoughtBubble("trigger_off.png");
                     while (receiver.RunLoop) receiver.Loop4();
                     receiver.reset();
                 }
